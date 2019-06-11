@@ -7,3 +7,5 @@ ipt<- installed.packages() %>%
   select(Package, LibPath, Version, Priority, Built)
          
 ipt
+
+
