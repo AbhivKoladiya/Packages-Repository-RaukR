@@ -1,8 +1,10 @@
 #' ---
-#' output:github_document
+#' output: github_document
 #' ---
 
+
 library(tidyverse)
+
 .libPaths()
 
 
@@ -12,6 +14,8 @@ ipt<- installed.packages() %>%
          
 ipt
 
+
+llvbnl;vklmvnkldl
 
 
 
